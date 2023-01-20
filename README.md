@@ -6,4 +6,4 @@
 
 4. cleanrl_ppo_jax.ipynb is code from cleanrl repository, to translate our code into JAX
 
-## Next Step is to increase the speed of PPO(NN.ipynb) using jax to run billions of iterations fast and check distribution of output of Neural network (actor)
+### Next Step is to increase the speed of PPO(ProximalPolicyOptimization_PPO.ipynb) using jax to run billions of iterations fast and check distribution of output of Neural network (actor)
