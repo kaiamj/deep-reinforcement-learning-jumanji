@@ -1,4 +1,4 @@
-1. PPO_jumaji_seperate_implementation.ipynb are the resources and implementation of jumanji and ppo seperately 
+1. [PPO_jumaji_seperate_implementation.ipynb](deep-reinforcement-learning-jumanji/tree/master/PPO_jumaji_seperate_implementation.ipynb) are the resources and implementation of jumanji and ppo seperately 
 
 2. Random Policy is to check baseline performance of jumanji bin packing 
 
